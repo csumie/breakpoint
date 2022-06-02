@@ -1,0 +1,1 @@
+define("odsp-next/dataSources/restoreActivities/RestoreActivities.resx",["exports"],function(e){e.strings={"yourOneDrive":"your OneDrive"}});
